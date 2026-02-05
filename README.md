@@ -7,6 +7,17 @@ It provides a smooth browsing experience across all devices with a modern layout
 
 ---
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+
+### Trending Section
+![Trending](screenshots/trending.png)
+
+---
+
 ## Features
 
 - Fully responsive design for all screen sizes  
@@ -26,16 +37,24 @@ It provides a smooth browsing experience across all devices with a modern layout
 
 ## Project Structure
 
+```bash
 Motocarz/
 ├── index.html
 ├── style.css
 ├── script.js
 └── images/
+```
 
 ---
 
 ## Developer
 
-**Nagilla Shyam Kumar**  
-[GitHub Profile](https://github.com/Shyamkumarnagilla)
+Developed by   **Shyam Kumar Nagilla** 
 
+- GitHub: https://github.com/Shyamkumarnagilla
+- LinkedIn: https://www.linkedin.com/in/nagilla-shyam
+- Email: nagillashyamkumar7@gmail.com
+
+---
+
+*If you like this project, give it a star to support the work!*
